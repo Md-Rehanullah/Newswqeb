@@ -10,7 +10,7 @@ document.getElementById("date").innerHTML = `<h4>${day}, ${mname} ${date}, ${yea
 
 // Fetching the news from the API
 
-const apiKey = 'pub_479521869e790a727903df673ac804ca5f7dc';
+const apiKey = 'pub_479521869e790a727903df673ac804ca5f7';
 let country = 'in';
 const maxNews = 12;
 const loadMoreCount = 6;
